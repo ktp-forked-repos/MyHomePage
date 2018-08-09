@@ -3,7 +3,7 @@
 	
 	</head>
 	<body>
-	<h1> Git pull </h1>
+	<h1> Git pulllll </h1>
 	
 	<?php
 		$script="gitPull.sh";
